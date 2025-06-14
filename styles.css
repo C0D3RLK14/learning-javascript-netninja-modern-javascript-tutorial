@@ -1,0 +1,17 @@
+.title {
+    color: blueviolet;
+    text-align: center;
+    border-bottom: 2px solid blueviolet;
+}
+
+.error {
+    padding: 10px;
+    color: crimson;
+    border: 1px dotted crimson;
+}
+
+.success {
+    padding: 10px;
+    color: limegreen;
+    border: 1px dotted limegreen;
+}
